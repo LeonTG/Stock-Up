@@ -10,11 +10,13 @@ ___
 
 **Commands:**
 
+/stockup info - *View scenario information, creator, plugin maker and version.*
+
 /stockup enable - *Enable the scenario.*
 
 /stockup disable - *Disable the scenario.*
 
-/stockup info - *View scenario information, creator, plugin maker and version.*
+/stockup comparrows - *Toggle compensation arrows.*
 
 **Permissions:**
 
