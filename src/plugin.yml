@@ -1,0 +1,9 @@
+name: StockUp
+main: com.leontg77.stockup.Main
+version: 1.0
+author: LeonTG77
+description: Each time a player dies, every other player currently alive gains 1 empty heart (no regeneration to heal that heart).
+
+commands:
+    stockup:
+        description: Get information, enable or disable the scenario.
