@@ -20,7 +20,7 @@ ___
 
 **Permissions:**
 
-*stockup.manage* - Permission to use /bparanoia
+*stockup.manage* - Permission to use /stockup
 
 ___
 
